@@ -1,0 +1,41 @@
+<p>
+                        Pourquoi mettre le succès de votre entreprise à la merci
+                        d'un agence de livraison externe alors que vous pourriez
+                        avoir la vôtre vélos de marque de l'entreprise à des
+                        fins de livraison ?
+                      </p>
+                      <p>
+                        Mael est une société française d'assemblage électrique
+                        unique des vélos pour des entreprises comme la vôtre, et
+                        avec ces vélos vous pouvez assurer des livraisons
+                        rapides tout au long de la journée
+                      </p>
+
+                      <p>
+                        Ces vélos électriques sont super rapides, fiables,
+                        confortable et surtout abordable. Elles sont abordable
+                        car nous avons des plans de paiement flexibles pour des
+                        entreprises comme la vôtre.
+                      </p>
+
+                      <p>
+                        Vous n'avez pas besoin d'avoir tout l'argent avant de
+                        pouvoir obtenir le tien
+                      </p>
+
+                      <p>
+                        Ann dirige une entreprise de restauration dans la partie
+                        centrale de Miami, et ses vélos de marque lui permettent
+                        de faire livraisons jusqu'aux extrémités de la ville.
+                      </p>
+
+                      <p>Si elle le peut, vous le pouvez aussi.</p>
+
+                      <br />
+                      <p style="text-align: center">
+                        <a
+                          href="https://mael-bike.fr/entreprise/"
+                          class="btn btn-primary"
+                          >Voir nos offres commerciales.</a
+                        >
+                      </p>
